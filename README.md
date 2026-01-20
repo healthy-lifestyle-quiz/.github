@@ -1,1 +1,1 @@
-# healthy-lifestyle-quiz
+# Healthy_Lifestyle_Quiz
